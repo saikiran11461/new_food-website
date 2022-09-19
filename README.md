@@ -12,4 +12,8 @@
 ![Screenshot (334)](https://user-images.githubusercontent.com/70562454/191043188-72246257-51d4-4de8-b217-eedfa38d1c99.png)
 ![Screenshot (335)](https://user-images.githubusercontent.com/70562454/191043196-8ca9d091-0944-4fef-bb3f-75fe6c711afe.png)
 ![Screenshot (336)](https://user-images.githubusercontent.com/70562454/191043207-f44ea55b-3cf0-413f-9d6f-aa5503cf24b5.png)
-![Screenshot (337)](https://user-images.githubusercontent.com/70562454/191043213-5bd0e9ff-207d-4ba5-bdbd-5d7cf404d7d3.png)
+![Screenshot (337)](https://user-images.githubusercontent.com/70562454/191043213-5bd0e9ff-207d-4ba5-bdbd-5d7cf404d7d3.png)<br/><br/>
+<h1>Tech stacks</h1>
+#HTML<br/>
+#CSS<br/>
+#JAVASCRIPT<br/>
