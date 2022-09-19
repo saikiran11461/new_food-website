@@ -1,4 +1,11 @@
 ﻿# new_food-website
+ 
+ #About website:
+     I have created a Basic food website. 
+     here we can order our foods . 
+     you can choose delicious food what want.
+     
+ Live The site :https://new-food-website.vercel.app/
  #Snap shots
 ![Screenshot (332)](https://user-images.githubusercontent.com/70562454/191043174-c451f52d-4481-4c10-ae45-cd51ed4ca58c.png)
 ![Screenshot (333)](https://user-images.githubusercontent.com/70562454/191043182-e384f787-6332-4621-9671-19638d53d23f.png)
