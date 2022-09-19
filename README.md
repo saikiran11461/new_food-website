@@ -5,8 +5,8 @@
      here we can order our foods .  </br>
      you can choose delicious food what want. </br><br/></br>
      
- Live The site :https://new-food-website.vercel.app/ </br></br><br/></br>
- #Snap shots
+ Live The site :https://new-food-website.vercel.app/ </br></br>
+ #Snap shots<br/>
 ![Screenshot (332)](https://user-images.githubusercontent.com/70562454/191043174-c451f52d-4481-4c10-ae45-cd51ed4ca58c.png)
 ![Screenshot (333)](https://user-images.githubusercontent.com/70562454/191043182-e384f787-6332-4621-9671-19638d53d23f.png)
 ![Screenshot (334)](https://user-images.githubusercontent.com/70562454/191043188-72246257-51d4-4de8-b217-eedfa38d1c99.png)
